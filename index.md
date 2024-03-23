@@ -10,7 +10,7 @@ GitHub 主页：[@chen-ni](https://github.com/chen-ni)
 
 可以在以下创作平台找到我：
 
-- 知乎：[倪琛](https://www.zhihu.com/people/voissurtonchemin)
+- 知乎：[倪琛聊历史](https://www.zhihu.com/people/voissurtonchemin)
 - 公众号：倪琛聊历史、倪琛聊职场
 - 豆瓣：[倪琛](https://www.douban.com/people/chen-ni)
 - CSDN：[倪琛](https://blog.csdn.net/VoisSurTonChemin)
