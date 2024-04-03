@@ -4,12 +4,13 @@
 
 <img width="200" alt="profile" src="https://user-images.githubusercontent.com/25177645/182061667-2b214ca1-2720-4cab-a275-04bb2bd71f0d.png">
 
-### 创作平台
+### 创作
 
 可以在以下创作平台找到我：
 
 - 知乎：[倪琛聊历史](https://www.zhihu.com/people/voissurtonchemin)
 - 公众号：倪琛聊历史、倪琛聊职场
+- 微信视频号/抖音/小红书/其他视频平台：倪琛聊历史
 - 豆瓣：[倪琛](https://www.douban.com/people/chen-ni)
 - CSDN：[倪琛](https://blog.csdn.net/VoisSurTonChemin)
 - Stack Overflow：[Chen Ni](https://stackoverflow.com/users/7438905/chen-ni?tab=profile)
