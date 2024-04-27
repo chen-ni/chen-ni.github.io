@@ -12,7 +12,6 @@
 - 公众号：倪琛聊历史、倪琛聊职场
 - B站：[倪琛聊历史](https://space.bilibili.com/3546651476101460)
 - 微信视频号 & 其他视频平台：倪琛聊历史
-- 豆瓣：[倪琛](https://www.douban.com/people/chen-ni)
 - CSDN：[倪琛](https://blog.csdn.net/VoisSurTonChemin)
 - Stack Overflow：[Chen Ni](https://stackoverflow.com/users/7438905/chen-ni?tab=profile)
 - dev.to：[@chenni](https://dev.to/chenni)
