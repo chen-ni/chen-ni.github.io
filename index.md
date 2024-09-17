@@ -11,7 +11,7 @@
 - 微信公众号：倪琛聊历史
 - 知乎：[倪琛聊历史](https://www.zhihu.com/people/voissurtonchemin)
 - B站：[倪琛聊历史](https://space.bilibili.com/3546651476101460)
-- 微信视频号/抖音/小红书/喜马拉雅：倪琛聊历史
+- 微信视频号/抖音/小红书：倪琛聊历史
 - 豆瓣：[倪琛聊历史](https://www.douban.com/people/chen-ni/)
 - CSDN：[倪琛](https://blog.csdn.net/VoisSurTonChemin)
 - Stack Overflow：[Chen Ni](https://stackoverflow.com/users/7438905/chen-ni?tab=profile)
