@@ -6,12 +6,15 @@
 
 ### 创作
 
-可以在以下创作平台找到我：
+仍在更新的平台：
 
 - 微信公众号：倪琛聊历史
 - 知乎：[倪琛聊历史](https://www.zhihu.com/people/voissurtonchemin)
+
+目前不再更新的平台：
+
 - B站：[倪琛聊历史](https://space.bilibili.com/3546651476101460)
-- 微信视频号/抖音/小红书：倪琛聊历史
+- 微信视频号：倪琛聊历史
 - 豆瓣：[倪琛聊历史](https://www.douban.com/people/chen-ni/)
 - CSDN：[倪琛](https://blog.csdn.net/VoisSurTonChemin)
 - Stack Overflow：[Chen Ni](https://stackoverflow.com/users/7438905/chen-ni?tab=profile)
